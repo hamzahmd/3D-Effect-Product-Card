@@ -54,7 +54,6 @@ body {
   color: rgba(4, 39, 29, 0.75);
   transition: all 0.75s ease-out;
   text-align: center;
-  position: relative;
 }
 .info h3 {
   font-size: 1.3 rem;
@@ -62,7 +61,6 @@ body {
   color: #585858;
   font-weight: lighter;
   transition: all 0.75s ease-out;
-  position: relative;
 }
 .sizes {
   display: flex;
@@ -84,7 +82,7 @@ button.active {
   color: white;
 }
 .purchase {
-  margin-top: 5rem;
+  margin-top: 3rem;
   transition: all 0.75s ease-out;
 }
 .purchase button {
