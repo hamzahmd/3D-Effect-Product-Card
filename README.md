@@ -3,7 +3,7 @@ This repository contains the source code of HTML, CSS and Vanilla JavaScript to 
 
 Surge Hosting Website:
 
-MMA-3DCard.surge.sh
+http://MMA-3DCard.surge.sh
 
 This project was created with the help of the tutorial by Dev Ed Youtube Channel:
 
